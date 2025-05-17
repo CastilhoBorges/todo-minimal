@@ -1,53 +1,64 @@
-# Welcome to your Lovable project
+### Welcome to **TodoMinimal** 📝
 
-## Project info
+---
 
-## How can I edit this code?
+#### Project Info
 
-There are several ways of editing your application.
+TodoMinimal é um aplicativo de tarefas projetado para quem busca simplicidade e eficiência. Com uma interface limpa e intuitiva, ele permite que você adicione, visualize e conclua suas tarefas rapidamente, sem distrações ou funcionalidades desnecessárias. Ideal para quem quer organizar o dia a dia de forma prática, focando apenas no que realmente importa.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+#### ✏️ Como editar este código?
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Você pode editar o TodoMinimal de várias formas, escolhendo a que melhor se adapta ao seu fluxo de trabalho:
 
-Follow these steps:
+##### **1. Use seu IDE favorito**
+
+Se preferir trabalhar localmente, basta clonar o repositório e começar a desenvolver.
+
+**Pré-requisito:** Ter o Node.js & npm instalados – [veja como instalar com nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# 1. Clone o repositório usando a URL do projeto
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# 2. Acesse a pasta do projeto
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# 3. Instale as dependências necessárias
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Inicie o servidor de desenvolvimento com recarregamento automático
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+##### **2. Edite diretamente pelo GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Navegue até o arquivo desejado.
+- Clique no ícone de lápis ("Edit") no canto superior direito da visualização do arquivo.
+- Faça suas alterações e clique em "Commit changes".
 
-**Use GitHub Codespaces**
+##### **3. Use o GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Acesse a página principal do repositório.
+- Clique no botão verde "Code" no topo direito.
+- Selecione a aba "Codespaces".
+- Clique em "New codespace" para iniciar um novo ambiente Codespace.
+- Edite os arquivos diretamente no Codespace e faça commit/push das alterações quando terminar.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+#### 🚀 Tecnologias utilizadas
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Este projeto foi construído com:
+
+- **Vite**
+- **TypeScript**
+- **React**
+- **shadcn-ui**
+- **Tailwind CSS**
+
+---
+
+Sinta-se à vontade para contribuir, sugerir melhorias ou relatar problemas!
+**Organize seu dia, simplifique sua vida.**
